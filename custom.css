@@ -77,13 +77,17 @@ header{
     /*background-position: left center;*/
     background-repeat: no-repeat;
     
+    
+}
+header .container{
+    background-image: url(dragonpic.jpg);
 }
 
 header h1{
     margin-bottom: 0;
     font-weight: normal;
     font-size: 165%;
-    color:brown;
+    color:rgb(226, 26, 12);
     text-shadow: rgb(146, 105, 105);
 }
 
